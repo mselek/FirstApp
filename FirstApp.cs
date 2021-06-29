@@ -83,8 +83,9 @@ namespace FirstApplication
                      * 2. Kelime = BDF
                      * ...
                      * ...
-                     * x. Kelime = YAC ÖDEV
+                     * x. Kelime = YAC
                      * x+1. Kelime = ZBD
+                     * Ayrıca 4 karakterden de oluşabilir bu örnekte 3 verilmiş.
                      */
 
                     tempStartCharCode = (byte)((byte)startChar + wordOrder - 1);
